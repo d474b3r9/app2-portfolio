@@ -13,3 +13,8 @@ with col2:
     Hi, I am Ardit ! Blablabla ...
     """
     st.info(content)
+
+content2 ="""
+"This is a new block blablabla !"
+"""
+st.write(content2)
